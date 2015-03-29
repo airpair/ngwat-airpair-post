@@ -24,7 +24,7 @@ So being inspired by both talks, I thought - “hmm… that could be a good twis
 
 So I submitted [the ng-wat proposal](https://github.com/shairez/submissions-2015/commit/eda35db37b92532e3a88f8b4813cdaeb4c5f60f3), in five minutes, just so I could tell myself that I at least tried… but never thought any of the organizers will take it seriously. And I never got around to propose “real” lectures, because every idea I had “wasn’t good enough”.
 
-So I then forgot about it and continued with my life…
+So I then forgot about it and moved on with my life…
 
 ### OMG OMG OMG!
 
