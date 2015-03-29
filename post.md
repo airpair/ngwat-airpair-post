@@ -41,8 +41,10 @@ My friends thought something is wrong, they stopped talking and asked “what th
 I was mumbling - “***My conversation was accepted***” because I was so dazzled by this email, and my wife tried to correct me “*you mean your lecture honey… your lecture...*” and I was like “*yeah.. my conversation...*” (which in Hebrew, is the literal translation of "talk")
 
 I then tweeted this - 
-<blockquote class="twitter-tweet" lang="en"><p>YEAHHHH!!!!! MY TALK ON <a href="https://twitter.com/angularjs">@angularjs</a> <a href="https://twitter.com/hashtag/WAT?src=hash">#WAT</a> GOT ACCEPTED TO <a href="https://twitter.com/ngconf">@ngconf</a> !!! I&#39;M THE HAPPIEST MAN ALLIVE!! :) &#10;<a href="https://t.co/0dCvDCKGwE">https://t.co/0dCvDCKGwE</a></p>&mdash; Shai Reznik (@shai_reznik) <a href="https://twitter.com/shai_reznik/status/531047491513249792">November 8, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a href="https://twitter.com/shai_reznik/status/531047491513249792" target="_blank">
+![https://twitter.com/shai_reznik/status/531047491513249792](https://cloud.githubusercontent.com/assets/1430726/6883514/b05485a2-d5c1-11e4-9eb4-5db36bcb9a21.png)</a>
+
 
 [And this is the rest of my reaction](https://www.youtube.com/watch?v=ZUjjA1M69OQ) which you can also see in the start of the the actual ng-wat talk.
 
@@ -61,8 +63,9 @@ One week before the event I did a test run with a couple of Angular friends whic
 
 I actually didn't sleep the whole night before, and as my time came closer and closer, the pressure and adrenaline levels in my blood were rising. So by the time I went up on stage I was so excited I almost slapped the soundman when he wired me up with the neck mic :)
 
-<blockquote class="twitter-tweet" lang="en"><p>Super excited!!! About to go up after this session... Gonna be CRAZY!! <a href="https://twitter.com/ngconf">@ngconf</a> <a href="https://twitter.com/hashtag/ngconf?src=hash">#ngconf</a> <a href="http://t.co/hpPt9hDTli">pic.twitter.com/hpPt9hDTli</a></p>&mdash; HiRez.io (@hirez_io) <a href="https://twitter.com/hirez_io/status/573590110245015552">March 5, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/hirez_io/status/573590110245015552" target="_blank">
+![https://twitter.com/hirez_io/status/573590110245015552](https://cloud.githubusercontent.com/assets/1430726/6883523/dec3a346-d5c1-11e4-9ac2-4c0cd81ca0d5.png)</a>
+
 
 
 ## A Video Is Worth A Million Words
