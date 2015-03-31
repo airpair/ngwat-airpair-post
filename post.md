@@ -22,7 +22,7 @@ Around that time I just finished arranging another fun [JavaScript Israel Meetup
 
 So being inspired by both talks, I thought - “hmm… that could be a good twist for ng-conf, maybe I’ll propose a **ng-wat talk** quickly, just to submit something, and later I’ll probably submit a good '*TDD in angular 3.0 migration with unicorns instead of directives*'  talk to blow everyone’s mind…” 
 
-So I submitted [the ng-wat proposal](https://github.com/shairez/submissions-2015/commit/eda35db37b92532e3a88f8b4813cdaeb4c5f60f3), in five minutes, just so I could tell myself that I at least tried… but never thought any of the organizers will take it seriously. And I never got around to propose “real” lectures, because every idea I had “wasn’t good enough”.
+So I submitted [the ng-wat proposal](https://github.com/shairez/submissions-2015/commit/eda35db37b92532e3a88f8b4813cdaeb4c5f60f3), in five minutes, just so I could tell myself that at least I tried… but never thought any of the organizers will take it seriously. And I never got around to propose “real” lectures, because every idea I had “wasn’t good enough”.
 
 So I then forgot about it and moved on with my life…
 
@@ -36,7 +36,7 @@ But then I've opened it and it was - “Congratulations! Your proposal have been
 
 Suddenly, everything went into slow motion, sounds became dim, my breathing became heavy and I manage to yell out: “WTF?!” 
 
-My friends thought something is wrong, they stopped talking and asked “what the happened!?”
+My friends thought something is wrong, they stopped talking and asked “what happened!?”
 
 I was mumbling - “***My conversation was accepted***” because I was so dazzled by this email, and my wife tried to correct me “*you mean your lecture honey… your lecture...*” and I was like “*yeah.. my conversation...*” (which in Hebrew, is the literal translation of "talk")
 
@@ -50,7 +50,7 @@ I then tweeted this -
 
 ## This Is Why I Was So Happy:
 
-1. I was [teaching angular](http://hirez.io) for over 2 years, telling clients how wonderful it is while apologizing on many design and naming decisions they’ve made, so **I would finally have the chance to blow some steam** in a Comedy Central Roast kind of a talk, which is a lifelong dream (roasting in a big event).
+1. I was [teaching angular](http://hirez.io) for over 2 years, telling clients how wonderful it is while apologizing on many design and naming decisions they’ve made, so **I would finally have the chance to blow some steam** in a Comedy Central Roast kind of a talk, which is a lifelong dream of mine (roasting in a big event).
 
 2. For once, **I can show crazy and weird WAT photos** (which is my hobby) in front of so many people without being kicked off stage (almost) and do crazy improv stuff I usually do in smaller events, but this time, on the big stage.
 
@@ -80,17 +80,17 @@ Eventually, this happened:
 
 The main motivation behind this talk was to entertain the Angular community and especially, the developers I admire the most.
 
-But I knew I was risking in sending the wrong message to people in the community. And after ng-europe's announcements and the reaction they got, I wanted to end with the same message I ended up [my parody video about Angular 2.0](https://www.youtube.com/watch?v=aZm3OcApTN4). 
+But I knew I was risking in sending the wrong message to people in the community. And after ng-europe's announcements and the reaction they got, I wanted to end with the same message I ended [my parody video about Angular 2.0](https://www.youtube.com/watch?v=aZm3OcApTN4) with. 
 
 I didn't want people to see my talk and think it is OK to complain from now on about every design decision the Angular team makes, and I think we all, as a community, don’t want it to happen. 
 
 ### Why?
 
-Because these guys and the community contributors work their asses off to provide us, web developers, the best framework they can provide, so the least we can do is to help them out.
+Because these guys and the community contributors work their asses off providing us, web developers, the best framework they can provide. So the least we can do is to help them out.
 
 As every experienced developer know, **when you build something, you make mistakes.** For most of us, it’s fixable because we have the luxury of refactoring.
 
-When building a framework as popular as Angular, it becomes harder and harder to refactor bad decisions quickly, because you’ve got the whole world pretty much depending on your APIs.
+When building a framework as popular as Angular, it becomes harder and harder to refactor bad decisions quickly, because you’ve got the whole world pretty much depended on your APIs.
 
 And I also know that we as developers, have stressful day jobs with tight deadlines we are trying to chase in every sprint / dev cycle. We don’t always have time to help and contribute.
 
